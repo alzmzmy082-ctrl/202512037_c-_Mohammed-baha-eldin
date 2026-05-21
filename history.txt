@@ -1,0 +1,6 @@
+C++ history tree:
+- C++ started in 1979 by Bjarne Stroustrup.
+- It was influenced by C language and Simula 67.
+- C language gave it speed and power.
+- Simula 67 gave it object-oriented features and classes.
+-
